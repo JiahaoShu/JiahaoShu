@@ -1,17 +1,19 @@
-### Hi there 👋
-I am currently a third-year CS student at University of Science and Technology of China(USTC).Feel free to contact me!
-个人主页 https://shujiaer.github.io/ (还没完成)
-<!--
-**Shujiaer/Shujiaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> 🤩 hello, i'm Jiahao Shu 🤩 </h1>
+<h3 align="center">🚀  🚀</h3>
 
-Here are some ideas to get you started:
+<div style="display:none">
+### 💻 my favorite stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React Native ❤
+- ReactJS & Styled-Components
+- NodeJS & Express
+- A little PHP
+- HTML & CSS
+</div>
+
+### ✨ a little about myself:
+
+- I am 22 years old and currently live in California.
+- I study computer science at the University of Science and Technology of China.
+
+<h3 ><strong> feel free to contact me at shujiahao210@gmail.com. ❤ </strong> </h3>
