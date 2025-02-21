@@ -5,11 +5,10 @@
   
 ### 💻 my favorite stack:
 
-- React Native ❤
-- ReactJS & Styled-Components
-- NodeJS & Express
-- A little PHP
-- HTML & CSS
+- Python & C++
+- Verilog
+- HTML & Latex
+- a little Rust
 </div>
 
 ### ✨ a little about myself:
