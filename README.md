@@ -17,4 +17,4 @@
 - I study computer science at the University of Science and Technology of China.
 - website: https://jiahaoshu.github.io/
 
-<h3 ><strong> feel free to contact me at shujiahao210@gmail.com. ❤ </strong> </h3>
+<h3 ><strong> feel free to contact me at jiahaoshu@outlook.com. ❤ </strong> </h3>
