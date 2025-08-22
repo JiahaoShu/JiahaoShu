@@ -13,7 +13,6 @@
 
 ### ✨ a little about myself:
 
-- I am 22 years old and currently live in California.
 - I study computer science at the University of Science and Technology of China.
 - website: https://jiahaoshu.github.io/
 
