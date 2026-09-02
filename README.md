@@ -2,7 +2,7 @@
 
 ### ✨ a little about myself:
 
-I study computer science at the University of Science and Technology of China.
+I am now a master student at Carnegie Mellon University. 
 
 Interested in Computer Vision and Deep Learning.
 
